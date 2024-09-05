@@ -2,9 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <meta-data
-        android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyCsjE9FpIdfsbxYDvsKm8eTFr4aZN39Kt37BjtxhhKpa7-skae" />
+        <meta-data
+    android:name="com.google.android.geo.API_KEY"
+    android:value="AIzaSyCsjE9FpIdfsbxYDvsKm8eTFr4aZm-skbc" />
+
 
     <application
         android:allowBackup="true"
